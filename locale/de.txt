@@ -1,0 +1,35 @@
+#: locale=de
+
+## Aktion
+
+### PDF
+PopupPDFBehaviour_E939BDC0_FB43_A667_41E4_C4792346A6A3.url = files/Checklist%20TERA%20FM_de.pdf
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_F519A7D2_FB44_626B_41DF_10112FD7022E.text = Hallo Christian!
+
+### URL
+FramePanoramaOverlay_EB926793_FB5D_A2E9_41B4_467458488C83.url = https://storage.net-fs.com/hosting/2727323/353/index.htm
+
+## Media
+
+### Image
+imlevel_EAA96D7A_FB5C_A61B_41E3_724E190AF50B.url = media/panorama_F13119C2_FB3C_6E6B_41E8_4401F245B1BC_HS_8lumvvht_de.png
+
+### Titel
+panorama_F1837573_FB3C_A629_41D8_726775BF1AA4.label = IMG_20220430_151725_00_028
+panorama_F13119C2_FB3C_6E6B_41E8_4401F245B1BC.label = IMG_20220430_151849_00_029
+video_F62F1206_FB45_9DEB_41E7_26D89E1B4AAB.label = young_rebels_final_v1
+
+### Video
+videolevel_EF021DE2_FB44_E62B_41E9_0B7B74F4D5E4.url = media/video_F62F1206_FB45_9DEB_41E7_26D89E1B4AAB_de.mp4
+videolevel_EF021DE2_FB44_E62B_41E9_0B7B74F4D5E4.posterURL = media/video_F62F1206_FB45_9DEB_41E7_26D89E1B4AAB_poster_de.jpg
+
+## Tour
+
+### Beschreibung
+
+### Titel
+tour.name = Test
